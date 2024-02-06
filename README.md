@@ -1,14 +1,19 @@
 # Java-OOP-Futbol-Menajer-Oyunu
 Java OOP Futbol Menajer Oyunu
-Konsol ortamında Futbol Menajer oyunu
 
-İçerik:İki oyunculu lig seçebildiğin, sonrasında takım seçebildiğin,
-seçim yaparken hatalı bir şey girersen tekrardan kaldığı seçimden uyarı verip tekrar değer girmeni sağlayan, 
-her takımın gücü olan, stadyum seçebildiğin, takımların güçlerini karşılaştırılarak ve deplasman yada ev sahibi olması hesaba katılarak ,
-hatta takımlarım güçleri arasında fazla bir fark varsa güçlü olanın kazanma olasılığının arttığı, 
-belirli oranlarla maçı kimin kazanacağı belirleneceği, rastgele dakikalarda pozisyon olan ve her pozisyonun gol olup olmamasını da görebildiğin ve pozisyonları yorumlanan 
-ve takım 1 atağa çıkarken bir sonraki pozisyon takım 2 atağa çıkıyor 
-tabi ki her atağa çıktığında gol olmama ihtimalinde var 
-istersen turnuva oynayabildiğin (turnuva oynarsan kaç tur oynayacağını seçtiğin iki oyuncunun da takımları sabit kalıcak sadece stadyum değiştirebileceksin 
-maçlarda sebebi de bir ev sahibi bir deplasman oynayabilmek için ve turnuvanın sonunda hangi takım daha fazla gol attıysa onun turnuvayı kazandığı 
-bir averaj sistemi ile birlikte )bir java projesi.
+Bu oyun, konsol ortamında oynanacak ve iki oyuncunun rekabet edebileceği bir futbol menajerliği simülasyonu olacak.
+
+İşte projenin içeriği:
+
+Lig Seçimi: Oyuncuların iki kişilik ligler arasından seçim yapabilecekleri bir başlangıç ekranı olacak. Lig seçimi yapıldıktan sonra, oyuncular takım seçimine geçebilecekler.
+
+Takım Seçimi: Oyuncular seçtikleri ligde bulunan takımlardan birini seçebilecekler. Ancak, yanlış bir giriş yapılırsa, oyuncuya uyarı verilecek ve tekrar giriş yapması istenecek.
+
+Güç Değerlendirmesi: Her takımın bir güç değeri olacak. Takımların güçleri karşılaştırılacak ve ev sahibi/deplasman avantajları göz önüne alınarak maç sonucu için olasılıklar hesaplanacak.
+
+Stadyum Seçimi: Oyuncular seçtikleri takımlar için bir stadyum seçebilecekler. Stadyum seçimi, maç sırasında atmosfer ve avantajlar açısından önemli olacak.
+
+Maç Simülasyonu: Maçlar rastgele dakikalarda pozisyonlarla oynanacak. Her pozisyonun gol olma olasılığı bulunacak ve bu durum oyunculara yansıtılacak. Her atağın ardından, rakip takımın atağa geçme olasılığı olacak.
+
+Turnuva Modu: İsteyen oyuncular turnuva modunu seçebilecekler. Turnuvada kaç tur oynanacağı belirlenecek ve maçlar bu format üzerinden ilerleyecek. Turnuva sonunda, takımların attığı gol sayılarına göre bir averaj sistemi ile kazanan belirlenecek.
+
