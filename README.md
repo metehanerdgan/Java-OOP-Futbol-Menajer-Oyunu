@@ -3,7 +3,7 @@ Java OOP Futbol Menajer Oyunu
 
 Bu oyun, konsol ortamında oynanacak ve iki oyuncunun rekabet edebileceği bir futbol menajerliği simülasyonu olacak.
 
-İşte projenin içeriği:
+İşte Projenin içeriği:
 
 Lig Seçimi: Oyuncuların iki kişilik ligler arasından seçim yapabilecekleri bir başlangıç ekranı olacak. Lig seçimi yapıldıktan sonra, oyuncular takım seçimine geçebilecekler.
 
