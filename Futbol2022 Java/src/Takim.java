@@ -10,6 +10,6 @@ public class Takim{
         this.isim=isim;
         this.guc = guc;
         this.renkleri = renkleri;
-       this.stadyum=stadyum;
+        this.stadyum=stadyum;
     }
 }
